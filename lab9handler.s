@@ -1,5 +1,10 @@
-# Exception Handler Framework for COSC211 Assignment 7
-
+#-----------------------------------------------------------------
+#Benjamin Scown
+#62071873
+#COSC 211
+#Computer Science
+#Lab 9
+#-----------------------------------------------------------------
 	.kdata
 
 save0:	.word 0		# $at
